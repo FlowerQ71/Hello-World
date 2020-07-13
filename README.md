@@ -1,2 +1,2 @@
 # Hello-World
-New start ‘Hello World！~’ in Python~
+New start ‘Hello World！~’ 
